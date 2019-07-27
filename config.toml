@@ -1,17 +1,16 @@
-baseurl = "http://www.rebeccabarter.com/"
+baseurl = "https://ivansusin.netlify.com/"
 languageCode = "en-us"
-title = "Rebecca Barter"
+title = "Ivan Susin"
 theme = "hugo-future-imperfect"
 preserveTaxonomyNames = true
 paginate = 3
-disqusShortname = "www-rebeccabarter-com"
-googleAnalytics = "UA-90929425-1"
+disqusShortname = "ivansusin-netlify-com"
 
 [params]
 
 
     # Sets the meta tag description, usually reserved for the main page
-    description          = "Rebecca Barter's webpage."
+    description          = "Ivan Susin's webpage."
 
     highlightjsVersion = "9.11.0"
     highlightjsCDN = "//cdn.bootcss.com"
@@ -19,7 +18,7 @@ googleAnalytics = "UA-90929425-1"
     highlightjsTheme = "github"
 
     # This will appear on the top left of the navigation bar
-    navbarTitle          = "Rebecca Barter"
+    navbarTitle          = "Ivan Susin"
     # Social media buttons that appear on the sidebar
     socialAppearAtTop    = true
     socialAppearAtBottom = true
@@ -49,11 +48,11 @@ googleAnalytics = "UA-90929425-1"
 # parms.intro will appear on the sidebar
 # This is optional, but it's suggested to use
 [params.intro]
-    header    = "Rebecca Barter"
+    header    = "Ivan Susin"
 
-    paragraph = "Data meets Narrative"
+    paragraph = "Paragraph in config toml"
 
-    about     = "Statistics PhD Student, Data Science Fellow and Avid Knitter."
+    about     = "About in config toml."
 
 # This will also appear on the sidebar.
 # A width of less than 100px is recommended
@@ -112,7 +111,7 @@ googleAnalytics = "UA-90929425-1"
 
 [[menu.main]]
     name = "GitHub"
-    url = "https://github.com/rlbarter"
+    url = "https://github.com/isusin"
     weight = 4
 
 [[menu.main]]
@@ -125,7 +124,7 @@ googleAnalytics = "UA-90929425-1"
 # socialAppearAtTop or socialAppearAtBottom is set to true in the params area
 # The social media icons will appear on the sidebar
 [social]
-    github          = "rlbarter"
+    github          = "isusin"
     bitbucket       = ""
     jsfiddle        = ""
     codepen         = ""
@@ -135,7 +134,7 @@ googleAnalytics = "UA-90929425-1"
     behance         = ""
     flickr          = ""
     instagram       = ""
-    youtube         = ""
+    youtube         = "isusin"
     vimeo           = ""
     vine            = ""
     medium          = ""
@@ -148,8 +147,8 @@ googleAnalytics = "UA-90929425-1"
     reddit          = ""
     pinterest       = ""
     googleplus      = ""
-    facebook        = ""
+    facebook        = "100005741627002"
     facebook_admin  = ""
     twitter_domain  = ""
-    twitter         = "rlbarter"
-    email           = ""
+    twitter         = "nyarlathotepesq"
+    email           = "isusin@nes.ru"
